@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\github-source\sample\library\src\main\assets"/><source path="D:\github-source\sample\library\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\github-source\sample\library\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\github-source\selectCalendar\library\src\main\assets"/><source path="D:\github-source\selectCalendar\library\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\github-source\selectCalendar\library\src\debug\assets"/></dataSet></merger>

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\github-source\\selectCalendar\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "D:\\github-source\\selectCalendar\\sample\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
         "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
         "source": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\drawable-hdpi\\icon.png"
     },

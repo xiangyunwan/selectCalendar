@@ -1,9 +1,5 @@
 [
     {
-        "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\week.xml",
-        "source": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\week.xml"
-    },
-    {
         "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\month.xml",
         "source": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\month.xml"
     },
@@ -12,7 +8,19 @@
         "source": "D:\\github-source\\sample\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\month.xml"
     },
     {
+        "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\week.xml",
+        "source": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\week.xml"
+    },
+    {
+        "merged": "D:\\github-source\\selectCalendar\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\week.xml",
+        "source": "D:\\github-source\\selectCalendar\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\week.xml"
+    },
+    {
         "merged": "D:\\github-source\\sample\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\week.xml",
         "source": "D:\\github-source\\sample\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\week.xml"
+    },
+    {
+        "merged": "D:\\github-source\\selectCalendar\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\month.xml",
+        "source": "D:\\github-source\\selectCalendar\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\month.xml"
     }
 ]

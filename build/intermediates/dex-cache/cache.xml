@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="D:\github-source\sample\sample\build\intermediates\exploded-aar\sample\library\unspecified\jars\classes.jar"
+        jar="D:\github-source\selectCalendar\sample\build\intermediates\exploded-aar\selectCalendar\library\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="7825bc09841df830fba366e8847de2adedd8fa4c">
-        <dex dex="D:\github-source\sample\sample\build\intermediates\pre-dexed\debug\sample-library-unspecified_04d4b53e8ab8f9c62c73a5cc02bbb32da12ac555.jar" />
+        <dex dex="D:\github-source\selectCalendar\sample\build\intermediates\pre-dexed\debug\selectCalendar-library-unspecified_e42cd036c4d4f5f4a7b1a0c7c97db6c50825346c.jar" />
     </item>
 
 </items>

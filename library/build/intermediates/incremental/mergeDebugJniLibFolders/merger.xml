@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\github-source\sample\library\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\github-source\sample\library\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\github-source\selectCalendar\library\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\github-source\selectCalendar\library\src\debug\jniLibs"/></dataSet></merger>
