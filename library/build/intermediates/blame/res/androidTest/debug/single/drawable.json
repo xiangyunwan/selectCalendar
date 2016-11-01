@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\github-source\\sample\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\calendar_bg_selector.xml",
+        "source": "D:\\github-source\\sample\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\calendar_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\calendar_bg_selector.xml",
+        "source": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\calendar_bg_selector.xml"
+    }
+]

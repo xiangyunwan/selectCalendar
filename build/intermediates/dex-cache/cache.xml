@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\github-source\sample\sample\build\intermediates\exploded-aar\sample\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7825bc09841df830fba366e8847de2adedd8fa4c">
+        <dex dex="D:\github-source\sample\sample\build\intermediates\pre-dexed\debug\sample-library-unspecified_04d4b53e8ab8f9c62c73a5cc02bbb32da12ac555.jar" />
+    </item>
+
+</items>

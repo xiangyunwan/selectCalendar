@@ -1,0 +1,1320 @@
+[
+    {
+        "outputFile": "D:\\github-source\\sample\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 47,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 47,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 52,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 52,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 61,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 61,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 62,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 62,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 60,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 342,
+                        "endColumn": 60,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 62,
+                    "endOffset": 461
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endColumn": 62,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 466,
+                    "endColumn": 56,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 56,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endColumn": 58,
+                    "endOffset": 577
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 58,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 582,
+                    "endColumn": 58,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 58,
+                        "endOffset": 636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endColumn": 62,
+                    "endOffset": 699
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 641,
+                        "endColumn": 62,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 704,
+                    "endColumn": 51,
+                    "endOffset": 751
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 51,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 756,
+                    "endColumn": 60,
+                    "endOffset": 812
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 268,
+                        "endColumn": 60,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 817,
+                    "endColumn": 57,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 57,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 52,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endColumn": 49,
+                    "endOffset": 973
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 49,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 978,
+                    "endColumn": 56,
+                    "endOffset": 1030
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 56,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1035,
+                    "endColumn": 56,
+                    "endOffset": 1087
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 56,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 47,
+                    "endOffset": 1135
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 443,
+                        "endColumn": 47,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1911,
+                    "endColumn": 64,
+                    "endOffset": 1971
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 64,
+                        "endOffset": 1535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1976,
+                    "endColumn": 63,
+                    "endOffset": 2035
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1540,
+                        "endColumn": 63,
+                        "endOffset": 1599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2040,
+                    "endColumn": 55,
+                    "endOffset": 2091
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1604,
+                        "endColumn": 55,
+                        "endOffset": 1655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2096,
+                    "endColumn": 51,
+                    "endOffset": 2143
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1660,
+                        "endColumn": 51,
+                        "endOffset": 1707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2148,
+                    "endColumn": 50,
+                    "endOffset": 2194
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1712,
+                        "endColumn": 50,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2199,
+                    "endColumn": 49,
+                    "endOffset": 2244
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2249,
+                    "endColumn": 59,
+                    "endOffset": 2304
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 59,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2309,
+                    "endColumn": 55,
+                    "endOffset": 2360
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2365,
+                    "endColumn": 47,
+                    "endOffset": 2408
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endColumn": 47,
+                        "endOffset": 1806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2413,
+                    "endColumn": 76,
+                    "endOffset": 2485
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1811,
+                        "endColumn": 76,
+                        "endOffset": 1883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2490,
+                    "endColumn": 55,
+                    "endOffset": 2541
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1888,
+                        "endColumn": 55,
+                        "endOffset": 1939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2546,
+                    "endLine": 39,
+                    "endColumn": 10,
+                    "endOffset": 2781
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1944,
+                        "endLine": 28,
+                        "endColumn": 10,
+                        "endOffset": 2179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2786,
+                    "endLine": 44,
+                    "endColumn": 10,
+                    "endOffset": 3000
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2184,
+                        "endLine": 33,
+                        "endColumn": 10,
+                        "endOffset": 2398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3005,
+                    "endLine": 47,
+                    "endColumn": 10,
+                    "endOffset": 3121
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2403,
+                        "endLine": 36,
+                        "endColumn": 10,
+                        "endOffset": 2519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3126,
+                    "endLine": 51,
+                    "endColumn": 10,
+                    "endOffset": 3281
+                },
+                "from": {
+                    "file": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2524,
+                        "endLine": 40,
+                        "endColumn": 10,
+                        "endOffset": 2679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 47,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 47,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 52,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 52,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 61,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 61,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 62,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 62,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 60,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 342,
+                        "endColumn": 60,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 62,
+                    "endOffset": 461
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endColumn": 62,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 466,
+                    "endColumn": 56,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 56,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endColumn": 58,
+                    "endOffset": 577
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 58,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 582,
+                    "endColumn": 58,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 58,
+                        "endOffset": 636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endColumn": 62,
+                    "endOffset": 699
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 641,
+                        "endColumn": 62,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 704,
+                    "endColumn": 51,
+                    "endOffset": 751
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 51,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 756,
+                    "endColumn": 60,
+                    "endOffset": 812
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 268,
+                        "endColumn": 60,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 817,
+                    "endColumn": 57,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 57,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 52,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endColumn": 49,
+                    "endOffset": 973
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 49,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 978,
+                    "endColumn": 56,
+                    "endOffset": 1030
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 56,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1035,
+                    "endColumn": 56,
+                    "endOffset": 1087
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 56,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 47,
+                    "endOffset": 1135
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 443,
+                        "endColumn": 47,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1911,
+                    "endColumn": 64,
+                    "endOffset": 1971
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 64,
+                        "endOffset": 1535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1976,
+                    "endColumn": 63,
+                    "endOffset": 2035
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1540,
+                        "endColumn": 63,
+                        "endOffset": 1599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2040,
+                    "endColumn": 55,
+                    "endOffset": 2091
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1604,
+                        "endColumn": 55,
+                        "endOffset": 1655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2096,
+                    "endColumn": 51,
+                    "endOffset": 2143
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1660,
+                        "endColumn": 51,
+                        "endOffset": 1707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2148,
+                    "endColumn": 50,
+                    "endOffset": 2194
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1712,
+                        "endColumn": 50,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2199,
+                    "endColumn": 49,
+                    "endOffset": 2244
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2249,
+                    "endColumn": 59,
+                    "endOffset": 2304
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 59,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2309,
+                    "endColumn": 55,
+                    "endOffset": 2360
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2365,
+                    "endColumn": 47,
+                    "endOffset": 2408
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endColumn": 47,
+                        "endOffset": 1806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2413,
+                    "endColumn": 76,
+                    "endOffset": 2485
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1811,
+                        "endColumn": 76,
+                        "endOffset": 1883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2490,
+                    "endColumn": 55,
+                    "endOffset": 2541
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1888,
+                        "endColumn": 55,
+                        "endOffset": 1939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2546,
+                    "endLine": 39,
+                    "endColumn": 10,
+                    "endOffset": 2781
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1944,
+                        "endLine": 28,
+                        "endColumn": 10,
+                        "endOffset": 2179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2786,
+                    "endLine": 44,
+                    "endColumn": 10,
+                    "endOffset": 3000
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2184,
+                        "endLine": 33,
+                        "endColumn": 10,
+                        "endOffset": 2398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3005,
+                    "endLine": 47,
+                    "endColumn": 10,
+                    "endOffset": 3121
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2403,
+                        "endLine": 36,
+                        "endColumn": 10,
+                        "endOffset": 2519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3126,
+                    "endLine": 51,
+                    "endColumn": 10,
+                    "endOffset": 3281
+                },
+                "from": {
+                    "file": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2524,
+                        "endLine": 40,
+                        "endColumn": 10,
+                        "endOffset": 2679
+                    }
+                }
+            }
+        ]
+    }
+]

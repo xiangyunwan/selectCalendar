@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\github-source\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\week.xml",
+        "source": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\layout\\week.xml"
+    },
+    {
+        "merged": "D:\\github-source\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\sample_calendar_picker.xml",
+        "source": "D:\\github-source\\sample\\sample\\src\\main\\res\\layout\\sample_calendar_picker.xml"
+    },
+    {
+        "merged": "D:\\github-source\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_customized.xml",
+        "source": "D:\\github-source\\sample\\sample\\src\\main\\res\\layout\\dialog_customized.xml"
+    },
+    {
+        "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_customized.xml",
+        "source": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\layout\\dialog_customized.xml"
+    },
+    {
+        "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\month.xml",
+        "source": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\layout\\month.xml"
+    },
+    {
+        "merged": "D:\\github-source\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\github-source\\sample\\sample\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\sample_calendar_picker.xml",
+        "source": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\layout\\sample_calendar_picker.xml"
+    },
+    {
+        "merged": "D:\\github-source\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\month.xml",
+        "source": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\layout\\month.xml"
+    },
+    {
+        "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\week.xml",
+        "source": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\layout\\week.xml"
+    }
+]

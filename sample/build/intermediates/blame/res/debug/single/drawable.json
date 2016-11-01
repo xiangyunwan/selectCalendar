@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_circle_today.xml",
+        "source": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\drawable\\bg_circle_today.xml"
+    },
+    {
+        "merged": "D:\\github-source\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_bg_selector.xml",
+        "source": "D:\\github-source\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\drawable\\calendar_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_calendar_bg_selector.xml",
+        "source": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\drawable\\custom_calendar_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\github-source\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_circle_today.xml",
+        "source": "D:\\github-source\\sample\\sample\\src\\main\\res\\drawable\\bg_circle_today.xml"
+    },
+    {
+        "merged": "D:\\github-source\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_circle_selected.xml",
+        "source": "D:\\github-source\\sample\\sample\\src\\main\\res\\drawable\\bg_circle_selected.xml"
+    },
+    {
+        "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_bg_selector.xml",
+        "source": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\drawable\\calendar_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_circle_selected.xml",
+        "source": "D:\\home\\xiangyun\\AndroidTestCodes\\sample\\sample\\src\\main\\res\\drawable\\bg_circle_selected.xml"
+    },
+    {
+        "merged": "D:\\github-source\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_calendar_bg_selector.xml",
+        "source": "D:\\github-source\\sample\\sample\\src\\main\\res\\drawable\\custom_calendar_bg_selector.xml"
+    }
+]
